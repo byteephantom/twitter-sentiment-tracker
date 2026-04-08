@@ -23,14 +23,12 @@ How do people express emotions on social media, and what topics dominate public 
 
 ## 📂 Project Structure
 twitter-sentiment-tracker/
-├── data/
-│   └── training.1600000.processed.noemoticon.csv
 ├── notebooks/
-│   └── analysis.ipynb
-├── dashboard.png
-├── requirements.txt
-└── README.md
-
+│   ├── analysis.ipynb
+├── outputs/
+│   └── dashboard.png
+├── README.md
+└── LICENSE
 ---
 
 ## 📊 Dataset
