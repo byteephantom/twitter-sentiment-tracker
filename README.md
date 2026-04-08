@@ -25,8 +25,7 @@ How do people express emotions on social media, and what topics dominate public 
 twitter-sentiment-tracker/
 ├── notebooks/
 │   ├── analysis.ipynb
-├── outputs/
-│   └── dashboard.png
+│   dashboard.png
 ├── README.md
 └── LICENSE
 ---
