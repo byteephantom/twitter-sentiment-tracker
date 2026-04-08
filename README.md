@@ -21,13 +21,18 @@ How do people express emotions on social media, and what topics dominate public 
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
+
+```
 twitter-sentiment-tracker/
+│
 ├── notebooks/
-│   ├── analysis.ipynb
-│   dashboard.png
-├── README.md
-└── LICENSE
+│   ├── analysis.ipynb          # Main analysis notebook
+├── dashboard.png           # Final visualization dashboard
+├── README.md                   # Project documentation
+└── LICENSE               
+```
+
 ---
 
 ## 📊 Dataset
